@@ -22,3 +22,5 @@ A Python-based GUI application that evaluates password strength, checks for data
 - Required libraries:  
   ```bash
   pip install requests
+## Disclaimer:
+- This tool does not store or transmit your full password. For breach checks, it uses the HaveIBeenPwned API’s k-anonymity method, sending only the first 5 characters of the SHA1 hash.
