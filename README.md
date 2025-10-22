@@ -1,6 +1,11 @@
 # Password Strength Analyzer
 
 A Python-based GUI application that evaluates password strength, checks for data breaches using the Have I Been Pwned API, and provides actionable suggestions for improvement.
+![pass0](https://github.com/user-attachments/assets/ecc2fbe7-b15a-4878-bb26-0c9c92354858)
+![pass1](https://github.com/user-attachments/assets/839b7186-a59b-493c-bc4d-b1df7792b173)
+![pass2](https://github.com/user-attachments/assets/a8c8e493-2bd3-4196-af1b-42ec10013995)
+![pass3](https://github.com/user-attachments/assets/03b42e1e-00c1-46ba-845a-5ae94445b650)
+
 
 ## Features
 
